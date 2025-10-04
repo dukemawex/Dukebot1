@@ -1,4 +1,4 @@
-name: Forecast on Market-pulse-25q3
+name: Forecast on Metaculus
 
 on:
   workflow_dispatch:
