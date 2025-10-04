@@ -15,8 +15,6 @@ numpy = "^2.3.0"
 openai = "^1.57.4"
 python-dotenv = "^1.0.1"
 forecasting-tools = "^0.2.54"
-newsapi-python = "^0.2.7"
-tavily-python = "^0.7.12"
 
 
 [tool.poetry.group.dev.dependencies]
